@@ -107,3 +107,14 @@ texto dividido por asteriscos
 texto dividido por guiones bajos
 
 _____
+
+
+
+# Saltos de linea
+Primer parrafo
+
+Segundo parrafo
+
+Tercer parrafo
+- Lista
+
