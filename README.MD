@@ -86,3 +86,12 @@ export  $initHighlight;
 | ------ | -------- | --------- |
 | Manuel | Sandoval | 45454     |
 | x | x | x |
+
+
+# Citas
+Cita: 
+> cita
+
+cita 2:
+>cita 2
+
