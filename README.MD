@@ -95,3 +95,15 @@ Cita:
 cita 2:
 >cita 2
 
+# lineas divisoras
+
+texto dividido por guiones
+
+----
+texto dividido por asteriscos
+
+***
+
+texto dividido por guiones bajos
+
+_____
