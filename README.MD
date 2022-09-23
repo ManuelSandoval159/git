@@ -11,8 +11,20 @@ Underline 1
 Underline 2
 ==========
 
+
+# formatos de enfasis
 - formato *italica primer forma.*
 - formato _italica segunda forma._
 - formato **bold o strong.** primer forma
 - formato __bold o strong.__ segunda forma
 - formato ~~tachado~~ , normal.
+
+# Listas
+
+1. Esto es un item de lista ordenada.  
+2. Esto es un item de lista ordenada.
+3. Esto es un item de lista ordenada.
+
+- Esto es un item de lista desordenada.
+- Esto es un item de lista desordenada.
+- Esto es un item de lista desordenada.
